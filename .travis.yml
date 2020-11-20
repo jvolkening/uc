@@ -7,7 +7,6 @@ perl:
 before_install:
   - sudo cpanm --notest Module::Build
 install:
-  - sudo cpanm --quiet --installdeps --notest .
 addons:
   apt:
     sources:
@@ -16,6 +15,7 @@ addons:
     - cpanminus
     - gzip
     - lbzip2
+    - libfile-which-perl
     - lz4
     - lzip
     - pbzip2
