@@ -1,0 +1,16 @@
+bin/uc
+LICENSE
+Makefile.PL
+MANIFEST			This list of files
+README.md
+Changes
+t/pod.t
+t/test_data/LICENSE
+t/test_data/LICENSE.bsc
+t/test_data/LICENSE.bz2
+t/test_data/LICENSE.gz
+t/test_data/LICENSE.lz4
+t/test_data/LICENSE.lzip
+t/test_data/LICENSE.xz
+t/test_data/LICENSE.zst
+t/uc.t
