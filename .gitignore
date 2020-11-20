@@ -1,6 +1,7 @@
 .*
 !/.gitignore
 !/.gitattributes
+!/.travis.yml
 /Makefile
 /Makefile.old
 /blib/
